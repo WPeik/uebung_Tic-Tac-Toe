@@ -2,6 +2,6 @@
 
 Dies ist ein Übungsprojekt, um mich vertrauter mit Java zu machen.
 Ich habe innerhalb eines Tages ein einfaches Tic-Tac-Toe spiel programmiert.
-Das Spiel kann unterscheiden, wer gewonnen hat oder ob es ein unentschieden gibt. Zudem gibt es eine einfache grafische Oberfläche.
+Das Spiel kann unterscheiden, wer gewonnen hat oder ob es ein unentschieden gibt. Zudem gibt es eine einfache grafische welche ich mithilfe von Java swing programmiert habe Oberfläche.
 
 Die „Tic-Tac-Toe.jar“ Datei ist eine ausführbare jar Datei und kann dadurch ohne die anderen Dateien zu benötigen ausgeführt werden.
